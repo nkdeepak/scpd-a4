@@ -3,11 +3,11 @@ channels:
   - pytorch
   - defaults
 dependencies:
-  - python=3.5
+  - python=3.7
   - numpy
   - scipy
   - tqdm
   - docopt
-  - pytorch=1.0.0
+  - pytorch
   - nltk
   - torchvision
